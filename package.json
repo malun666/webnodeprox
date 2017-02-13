@@ -1,0 +1,22 @@
+{
+  "name": "nodeprox",
+  "version": "1.0.0",
+  "description": "在线代理google.cn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prox",
+    "node",
+    "nodejs",
+    "google"
+  ],
+  "author": "flydragonml@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "http-proxy": "^1.16.2"
+  }
+}
